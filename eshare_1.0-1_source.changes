@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Sun, 03 Mar 2024 10:16:55 +0000
+Source: eshare
+Built-For-Profiles: noudeb
+Architecture: source
+Version: 1.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: GNINGHAYE Malcolmx Hassler <guemandeuhassler96@gmail.com>
+Changed-By: GNINGHAYE Malcolmx Hassler <guemandeuhassler96@gmail.com>
+Changes:
+ eshare (1.0-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.10.0
+Checksums-Sha1:
+ 3eb6d7820ceaae89575eeec03259cd28a89fd02d 812 eshare_1.0-1.dsc
+ 6298d4d0342610d9d08e2c7da1bb5834fcde34f0 2124 eshare_1.0.orig.tar.gz
+ 811334f0652d76bd5776c1d9f5f1b72b099e4db8 912 eshare_1.0-1.debian.tar.xz
+ a39647faff363d9ba75c871eb6c1f3b9e84d0451 6501 eshare_1.0-1_source.buildinfo
+Checksums-Sha256:
+ 282829fcc851205d473d6cc0438748157c202f7360ad158acc6d2915b6d868ba 812 eshare_1.0-1.dsc
+ f0c2dbfae5f021e0319e6ceb82ee2b08c5b03e67c4f6ce819810d20dfa01dd2e 2124 eshare_1.0.orig.tar.gz
+ b96c68f027c7d96cd839931b53f5f715ba2f0f3b3609679bbaa49153062957e7 912 eshare_1.0-1.debian.tar.xz
+ cacf030eae4f6e8d6542bcb8a1a83cdb6a0694c49145da0bfdc0fb486b716677 6501 eshare_1.0-1_source.buildinfo
+Files:
+ bab9eab355ed22714976294521c61f3d 812 python optional eshare_1.0-1.dsc
+ c959a096f0896f06b91fd819cd1897ff 2124 python optional eshare_1.0.orig.tar.gz
+ cf5b422084b457e14f02d6b8061fb374 912 python optional eshare_1.0-1.debian.tar.xz
+ aa202f3f52d252d2a12be9320f09ed3f 6501 python optional eshare_1.0-1_source.buildinfo

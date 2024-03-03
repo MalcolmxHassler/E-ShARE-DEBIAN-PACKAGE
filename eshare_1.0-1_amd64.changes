@@ -1,0 +1,35 @@
+Format: 1.8
+Date: Sun, 03 Mar 2024 10:16:55 +0000
+Source: eshare
+Binary: python3-eshare
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 1.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: GNINGHAYE Malcolmx Hassler <guemandeuhassler96@gmail.com>
+Changed-By: GNINGHAYE Malcolmx Hassler <guemandeuhassler96@gmail.com>
+Description:
+ python3-eshare - Secure FTP server using SSL Certificates
+Changes:
+ eshare (1.0-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.10.0
+Checksums-Sha1:
+ 3eb6d7820ceaae89575eeec03259cd28a89fd02d 812 eshare_1.0-1.dsc
+ 6298d4d0342610d9d08e2c7da1bb5834fcde34f0 2124 eshare_1.0.orig.tar.gz
+ 811334f0652d76bd5776c1d9f5f1b72b099e4db8 912 eshare_1.0-1.debian.tar.xz
+ 4ff90dac3fd113bd84faf6faabd91ec70fb07c6c 6772 eshare_1.0-1_amd64.buildinfo
+ ad60f4d26c76238cc52100f3e8725acf7032c909 3052 python3-eshare_1.0-1_all.deb
+Checksums-Sha256:
+ 282829fcc851205d473d6cc0438748157c202f7360ad158acc6d2915b6d868ba 812 eshare_1.0-1.dsc
+ f0c2dbfae5f021e0319e6ceb82ee2b08c5b03e67c4f6ce819810d20dfa01dd2e 2124 eshare_1.0.orig.tar.gz
+ b96c68f027c7d96cd839931b53f5f715ba2f0f3b3609679bbaa49153062957e7 912 eshare_1.0-1.debian.tar.xz
+ 03f8d04ccbffd1e1a7c96bacf9044959c0ae4e6f9a609980e81f6971aae2b4d6 6772 eshare_1.0-1_amd64.buildinfo
+ 4ac83b2a6ffafcdb813f0cadb2e9783611df6cad3c604cc0da0f5475582a6d3c 3052 python3-eshare_1.0-1_all.deb
+Files:
+ bab9eab355ed22714976294521c61f3d 812 python optional eshare_1.0-1.dsc
+ c959a096f0896f06b91fd819cd1897ff 2124 python optional eshare_1.0.orig.tar.gz
+ cf5b422084b457e14f02d6b8061fb374 912 python optional eshare_1.0-1.debian.tar.xz
+ 77d85886c5024702324525061dc715cf 6772 python optional eshare_1.0-1_amd64.buildinfo
+ 5c55d13c5b03f83c95e26254063fee76 3052 python optional python3-eshare_1.0-1_all.deb
